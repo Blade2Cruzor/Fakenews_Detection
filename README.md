@@ -16,5 +16,8 @@ We want to give people the power to tell when news is trustworthy and when it's 
  3.4 MLPRegressor...</I><br/>
 4. Predict whether the news is reliable or not
 
-# Teachnologies
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+# Technologies🧩
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+# Developed using📚
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
